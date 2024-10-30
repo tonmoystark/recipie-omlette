@@ -1,0 +1,97 @@
+body{
+    background-color: #F3E5D8;
+}
+.main{
+    height: 1700px;
+    width: 720px;
+    background-color: white;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+.img{
+
+    height: 300px;
+    margin: 30px;
+    padding-top: 30px;
+}
+img{
+    border-radius: 10px;
+}  
+
+.omlette h1, p{
+    margin: 30px;
+}
+.omelette p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.preparation{
+    background-color: #FFF7FC;
+    height: 200px;
+    width: 650px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-top: 15px;
+    padding-left: 15px;
+    margin: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.preparation h3{
+    color: purple;
+}
+.preparation ul li{
+    line-height: 30px;
+}
+
+.ingredients{
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ingredients h1{
+    color: #854832;
+}
+.ingredients ul li{
+    line-height:30px ;
+    font-size: 16px;
+}
+
+hr{
+    margin: 30px;
+}
+.instruction{
+    margin: 30px;
+    color: #854832;
+}
+.instruction ol li {
+    line-height: 25px;
+    color: black;
+    font-weight: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.nutrition{
+    margin: 30px;
+
+}
+.nutrition h1{
+    color: #854832;
+}
+.nutrition table{
+    width: 95%;
+    border-bottom: 1px solid wheat;
+}
+table, tbody, tr, td {
+    border-bottom: 1px rgb(194, 172, 172) solid;
+    border-collapse: collapse;
+    padding: 10px;
+    padding-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+caption{
+    text-align: left;
+    padding-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
